@@ -1,5 +1,6 @@
 # NasaAPOD
 Simple Python Script Get Astronomy Picture of the Day
+and Automatic download
 
 module require :
   - json
