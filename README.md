@@ -16,4 +16,5 @@ One of the most popular websites at NASA is the Astronomy Picture of the Day. In
 
 Example :
     python nasaAPOD.py -k dHcONxPz7************************ -r
+    
  	  python nasaAPOD.py -k dHcONxPz7************************ 2019-1-9
